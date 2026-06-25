@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
