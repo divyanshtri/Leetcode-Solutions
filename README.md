@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
