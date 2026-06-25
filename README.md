@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
