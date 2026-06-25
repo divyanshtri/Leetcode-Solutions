@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,8 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
