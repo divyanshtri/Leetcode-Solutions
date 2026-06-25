@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
