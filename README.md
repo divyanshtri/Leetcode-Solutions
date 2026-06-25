@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
