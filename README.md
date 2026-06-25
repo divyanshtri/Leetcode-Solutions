@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Hash Table
 |  |
 | ------- |
