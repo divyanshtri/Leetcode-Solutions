@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
