@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
