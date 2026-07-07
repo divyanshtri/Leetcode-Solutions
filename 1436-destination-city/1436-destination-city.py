@@ -5,9 +5,8 @@ class Solution:
         for j in paths:
             start_pts.add(j[0])
             end_pts.add(j[1])
-        s=end_pts-start_pts.intersection(end_pts)
-        for a in s:
-            return a
+        s= end_pts - start_pts
+        return s.pop()
         
         
         
