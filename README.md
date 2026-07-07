@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1436-destination-city) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1436-destination-city](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
