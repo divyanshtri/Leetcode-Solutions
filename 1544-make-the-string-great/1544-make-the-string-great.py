@@ -3,17 +3,12 @@ class Solution:
         stack=[]
         for i in s:
             if stack:
-                if stack[-1]==i.upper() and i.islower():
-                    stack.pop()
-                elif stack[-1]==i.lower() and i.isupper():
+                if stack and abs(ord(stack[-1]) - ord(i)) == 32:
                     stack.pop()
                 else:
                     stack.append(i)
             else:
                 stack.append(i)
-        if stack==[]:
-            return ""
-        else:
-            return ("".join(stack))
+        return ("".join(stack))
 
    
