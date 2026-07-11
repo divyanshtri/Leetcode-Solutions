@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1436-destination-city) |
+| [2540-minimum-common-value](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2540-minimum-common-value](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
