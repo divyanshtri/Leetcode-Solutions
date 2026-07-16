@@ -1,7 +1,7 @@
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
-        n = len(nums)
-        k %= n
+        m = len(nums)
+        k %= m
 
        
         nums.reverse()
@@ -14,7 +14,7 @@ class Solution:
             right -= 1
 
         
-        left, right = k, n - 1
+        left, right = k, m - 1
         while left < right:
             nums[left], nums[right] = nums[right], nums[left]
             left += 1
