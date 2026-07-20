@@ -6,12 +6,13 @@ class Solution:
 
             for j in range(len(nums)-1-i):
 
-                if nums[j]>nums[j+1]:
+                if nums[j+1]>nums[j]:
                     nums[j],nums[j+1]=nums[j+1],nums[j]
                     swapped=  True
 
             if not swapped:
                 break
+        nums.reverse()
         return nums
         """
         Do not return anything, modify nums in-place instead.
