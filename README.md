@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1436-destination-city) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1436-destination-city](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
