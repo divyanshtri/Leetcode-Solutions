@@ -2,15 +2,15 @@ class Solution:
     def sortColors(self, nums: List[int]) -> None:
 
         for i in range(len(nums)):
-            swapped=False
+            swapp=False
 
             for j in range(len(nums)-1-i):
 
                 if nums[j]>nums[j+1]:
                     nums[j],nums[j+1]=nums[j+1],nums[j]
-                    swapped=  True
+                    swapp=  True
 
-            if not swapped:
+            if not swapp:
                 break
         return nums
         """
