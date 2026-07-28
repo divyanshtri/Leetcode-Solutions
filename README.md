@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
