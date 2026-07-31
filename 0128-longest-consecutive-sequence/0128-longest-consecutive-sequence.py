@@ -6,7 +6,7 @@ class Solution:
 
         nums = sorted(set(nums))
 
-        ans = 1
+        answer = 1
         left = 0
 
         for right in range(len(nums)):
@@ -14,7 +14,7 @@ class Solution:
             if right != len(nums)-1 and nums[right+1] == nums[right] + 1:
                 continue
 
-            ans = max(ans, right - left + 1)
+            answer = max(answer, right - left + 1)
             left = right + 1
 
-        return ans
+        return answer
