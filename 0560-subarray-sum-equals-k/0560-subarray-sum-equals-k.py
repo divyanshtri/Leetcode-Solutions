@@ -1,7 +1,7 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
         prefix = 0
-        count = 0
+        countt = 0
 
         freq = {0: 1}
 
@@ -11,8 +11,8 @@ class Solution:
             needed = prefix - k
 
             if needed in freq:
-                count += freq[needed]
+                countt += freq[needed]
 
             freq[prefix] = freq.get(prefix, 0) + 1       
         
-        return count
+        return countt
