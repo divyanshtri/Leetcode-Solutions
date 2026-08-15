@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
