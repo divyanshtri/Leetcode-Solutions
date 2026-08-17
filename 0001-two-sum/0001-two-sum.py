@@ -1,14 +1,16 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {}
+        seeen={}
 
-        for i, num in enumerate(nums):
-            complement = target - num
+        for i in range(len(nums)):
+            complement=target-nums[i]
 
-            if complement in seen:
-                return [seen[complement], i]
+            if complement in seeen:
+                return [i,seeen[complement]]
+                
+            seeen[nums[i]]=i
 
-            seen[num] = i
+
         
 
 
