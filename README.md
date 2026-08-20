@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/divyanshtri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
