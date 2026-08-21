@@ -9,9 +9,9 @@ class Solution:
             mid = low + (high - low) // 2
 
             
-            missing = arr[mid] - (mid + 1)
+            misssing = arr[mid] - (mid + 1)
 
-            if missing < k:
+            if misssing < k:
                 low = mid + 1
 
             else:
