@@ -17,14 +17,10 @@ class Solution:
 
         for i in range(len(s)):
 
-            # Odd-length palindrome
             odd = expand(i, i)
 
-            # Even-length palindrome
             even = expand(i, i + 1)
 
-            # Compare odd and even with longest
-            # and keep the longer one
             if len(odd)>len(longest):
                 longest=odd
             if len(even)>len(longest):
