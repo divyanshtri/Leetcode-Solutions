@@ -2,11 +2,11 @@ class Solution:
     def findKthPositive(self, arr: List[int], k: int) -> int:
 
         low = 0
-        high = len(arr) - 1
+        highh = len(arr) - 1
 
-        while low <= high:
+        while low <= highh:
 
-            mid = low + (high - low) // 2
+            mid = low + (highh - low) // 2
 
             
             missing = arr[mid] - (mid + 1)
@@ -15,6 +15,6 @@ class Solution:
                 low = mid + 1
 
             else:
-                high = mid - 1
+                highh = mid - 1
 
         return low + k
