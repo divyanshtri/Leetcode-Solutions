@@ -7,7 +7,7 @@ class Solution:
         def capacity(cap):
 
             current_weight = 0
-            required_days = 1
+            required_dayss = 1
 
             for weight in weights:
 
@@ -15,10 +15,10 @@ class Solution:
                     current_weight += weight
 
                 else:
-                    required_days += 1
+                    required_dayss += 1
                     current_weight = weight
 
-            return required_days <= days
+            return required_dayss <= days
 
         while low < high:
 
