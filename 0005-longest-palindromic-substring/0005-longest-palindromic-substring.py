@@ -17,12 +17,12 @@ class Solution:
 
         for i in range(len(s)):
 
-            odd = expand(i, i)
+            oddd = expand(i, i)
 
             even = expand(i, i + 1)
 
-            if len(odd)>len(longest):
-                longest=odd
+            if len(oddd)>len(longest):
+                longest=oddd
             if len(even)>len(longest):
                 longest=even
         
