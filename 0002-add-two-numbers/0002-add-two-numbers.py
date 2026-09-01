@@ -7,16 +7,16 @@ class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         dummy = ListNode(0)
         curr = dummy
-        carry = 0
+        carryy = 0
 
-        while l1 or l2 or carry:
+        while l1 or l2 or carryy:
 
             x = l1.val if l1 else 0
             y = l2.val if l2 else 0
 
-            total = x + y + carry
+            total = x + y + carryy
 
-            carry = total // 10
+            carryy = total // 10
             digit = total % 10
 
             curr.next = ListNode(digit)
