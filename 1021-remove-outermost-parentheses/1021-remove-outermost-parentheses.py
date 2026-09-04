@@ -11,6 +11,7 @@ class Solution:
                 depth-=1
                 if depth>=1:
                     answer.append(i)
-        res="".join(answer)
-        return res
+        result="".join(answer)
+        return result
+        
 
